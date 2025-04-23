@@ -24,7 +24,7 @@ The dashboard meets the following specifications:
 ![Dashboard Snapshot](Snapshot.png)
 
 ## Tableau Public Link
-[View the Dashboard on Tableau Public]([https://public.tableau.com/app/workbook_link](https://public.tableau.com/views/ContainersDynamicZoneVisibilityWOW2025W16/WOW2025W16?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the Dashboard on Tableau Public](https://public.tableau.com/views/ContainersDynamicZoneVisibilityWOW2025W16/WOW2025W16?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use
 1. Open the dashboard in Tableau Public using the link above.
